@@ -28,7 +28,7 @@
             <TextView
                     android:layout_width="300dp"
                     android:layout_height="5000dp"
-                    android:background="@color/colorPrimaryDark"
+                    android:background="@color/colorPrimary"
                     android:text="Hello World!"/>
         </LinearLayout>
 

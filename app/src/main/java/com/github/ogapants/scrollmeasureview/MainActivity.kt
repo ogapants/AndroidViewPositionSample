@@ -22,8 +22,8 @@ class MainActivity : AppCompatActivity() {
         textView = findViewById(R.id.textview)
 //        textView.translationY = -20.0F
 //        textView.translationX = -20.0F
-        textView.offsetTopAndBottom(50)
-        textView.offsetLeftAndRight(20)
+//        textView.offsetTopAndBottom(50)
+//        textView.offsetLeftAndRight(20)
 
         val scrollView = findViewById<ScrollView>(R.id.scrollView)
         scrollView.setOnScrollChangeListener { v, scrollX, scrollY, oldScrollX, oldScrollY ->
